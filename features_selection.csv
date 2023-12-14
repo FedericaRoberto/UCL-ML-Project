@@ -1,0 +1,471 @@
+COMBINATION,COMBINATION_RMSE
+"('age', 'blood pressure', 'cholesterol', 'hemoglobin', 'testosterone', 'RH', 'A', 'B', 'PHY', 'SAR', 'SML', 'SMD')",0.6515757005840631
+"('age', 'blood pressure', 'hemoglobin', 'temperature', 'testosterone', 'weight', 'RH', 'B', 'PHY', 'SML', 'SMD')",0.6533729515667247
+"('age', 'blood pressure', 'cholesterol', 'hemoglobin', 'testosterone', 'weight', 'RH', 'A', 'B', 'PHY', 'SAR')",0.6553770116686405
+"('age', 'blood pressure', 'hemoglobin', 'testosterone', 'weight', 'RH', 'A', 'B', 'PHY', 'SAR', 'SMD')",0.6903648684753111
+"('age', 'blood pressure', 'cholesterol', 'hemoglobin', 'testosterone', 'weight', 'RH', 'A', 'PHY', 'SAR', 'SML')",0.6968947939800285
+"('age', 'cholesterol', 'hemoglobin', 'temperature', 'testosterone', 'weight', 'A', 'B', 'PHY', 'SAR', 'SML')",0.6978355228231073
+"('age', 'cholesterol', 'hemoglobin', 'temperature', 'testosterone', 'A', 'B', 'PHY', 'SAR', 'SML', 'SMD')",0.7009417016711303
+"('age', 'blood pressure', 'cholesterol', 'hemoglobin', 'testosterone', 'weight', 'RH', 'A', 'B', 'PHY', 'SAR', 'SMD')",0.7015315996434357
+"('age', 'blood pressure', 'cholesterol', 'hemoglobin', 'testosterone', 'weight', 'RH', 'A', 'B', 'PHY', 'SAR', 'SML', 'SMD')",0.7021285203248052
+"('age', 'cholesterol', 'hemoglobin', 'testosterone', 'weight', 'RH', 'A', 'PHY', 'SAR', 'SML', 'SMD')",0.7028788711378955
+"('blood pressure', 'cholesterol', 'hemoglobin', 'temperature', 'testosterone', 'weight', 'RH', 'A', 'B', 'PHY', 'SAR', 'SML')",0.7051101072450326
+"('age', 'cholesterol', 'temperature', 'testosterone', 'weight', 'RH', 'A', 'PHY', 'SAR', 'SML', 'SMD')",0.7071570959856004
+"('blood pressure', 'cholesterol', 'hemoglobin', 'temperature', 'testosterone', 'weight', 'RH', 'A', 'B', 'PHY', 'SAR', 'SML', 'SMD')",0.7108417984686259
+"('age', 'blood pressure', 'hemoglobin', 'temperature', 'weight', 'A', 'B', 'PHY', 'SAR', 'SML', 'SMD')",0.7116271921917613
+"('age', 'blood pressure', 'cholesterol', 'hemoglobin', 'temperature', 'testosterone', 'RH', 'A', 'PHY', 'SAR', 'SML')",0.7121243360027691
+"('age', 'blood pressure', 'cholesterol', 'hemoglobin', 'testosterone', 'weight', 'RH', 'A', 'PHY', 'SAR', 'SMD')",0.7132908972038223
+"('blood pressure', 'cholesterol', 'hemoglobin', 'testosterone', 'weight', 'RH', 'A', 'B', 'PHY', 'SAR', 'SML')",0.7134637964529216
+"('age', 'blood pressure', 'cholesterol', 'hemoglobin', 'temperature', 'weight', 'A', 'B', 'PHY', 'SAR', 'SML')",0.7137287931655563
+"('age', 'blood pressure', 'cholesterol', 'hemoglobin', 'weight', 'A', 'B', 'PHY', 'SAR', 'SML', 'SMD')",0.7145672245784155
+"('blood pressure', 'cholesterol', 'hemoglobin', 'temperature', 'testosterone', 'weight', 'RH', 'A', 'PHY', 'SAR', 'SML')",0.7147003022242869
+"('age', 'blood pressure', 'cholesterol', 'hemoglobin', 'weight', 'RH', 'A', 'PHY', 'SAR', 'SML', 'SMD')",0.7160779908485921
+"('blood pressure', 'hemoglobin', 'testosterone', 'weight', 'RH', 'A', 'B', 'PHY', 'SAR', 'SML', 'SMD')",0.7166012078994917
+"('age', 'cholesterol', 'temperature', 'testosterone', 'weight', 'RH', 'A', 'B', 'PHY', 'SML', 'SMD')",0.7187557077238903
+"('age', 'cholesterol', 'hemoglobin', 'temperature', 'testosterone', 'weight', 'A', 'B', 'PHY', 'SAR', 'SMD')",0.7188496893300628
+"('age', 'cholesterol', 'hemoglobin', 'temperature', 'testosterone', 'weight', 'RH', 'A', 'PHY', 'SAR', 'SML', 'SMD')",0.7210580618879816
+"('age', 'cholesterol', 'hemoglobin', 'temperature', 'testosterone', 'weight', 'RH', 'A', 'B', 'SAR', 'SML', 'SMD')",0.7253286615836869
+"('age', 'blood pressure', 'cholesterol', 'hemoglobin', 'temperature', 'weight', 'A', 'B', 'PHY', 'SML', 'SMD')",0.7269857954165871
+"('age', 'blood pressure', 'cholesterol', 'hemoglobin', 'temperature', 'RH', 'B', 'PHY', 'SAR', 'SML', 'SMD')",0.7288232466082397
+"('cholesterol', 'hemoglobin', 'temperature', 'testosterone', 'weight', 'RH', 'A', 'B', 'PHY', 'SML', 'SMD')",0.7319079535220382
+"('age', 'blood pressure', 'cholesterol', 'hemoglobin', 'temperature', 'testosterone', 'A', 'B', 'PHY', 'SAR', 'SML', 'SMD')",0.7330101928923405
+"('cholesterol', 'hemoglobin', 'temperature', 'testosterone', 'weight', 'RH', 'A', 'B', 'PHY', 'SAR', 'SML', 'SMD')",0.7374054093923076
+"('blood pressure', 'cholesterol', 'hemoglobin', 'temperature', 'weight', 'RH', 'A', 'B', 'PHY', 'SAR', 'SML', 'SMD')",0.7377866268080848
+"('age', 'blood pressure', 'cholesterol', 'hemoglobin', 'testosterone', 'weight', 'RH', 'A', 'B', 'PHY', 'SMD')",0.7382194784842812
+"('age', 'hemoglobin', 'temperature', 'testosterone', 'weight', 'RH', 'A', 'PHY', 'SAR', 'SML', 'SMD')",0.7387046685582912
+"('age', 'blood pressure', 'cholesterol', 'hemoglobin', 'testosterone', 'weight', 'B', 'PHY', 'SAR', 'SML', 'SMD')",0.7387804804311423
+"('age', 'blood pressure', 'cholesterol', 'hemoglobin', 'temperature', 'weight', 'RH', 'B', 'PHY', 'SML', 'SMD')",0.7396312465256275
+"('age', 'blood pressure', 'cholesterol', 'hemoglobin', 'testosterone', 'weight', 'RH', 'B', 'PHY', 'SAR', 'SML')",0.7401992284164837
+"('age', 'blood pressure', 'cholesterol', 'hemoglobin', 'RH', 'A', 'B', 'PHY', 'SAR', 'SML', 'SMD')",0.7403155419472897
+"('age', 'blood pressure', 'cholesterol', 'temperature', 'testosterone', 'RH', 'A', 'B', 'PHY', 'SML', 'SMD')",0.7403271092794138
+"('age', 'blood pressure', 'cholesterol', 'temperature', 'testosterone', 'weight', 'RH', 'B', 'PHY', 'SAR', 'SMD')",0.7404725311218121
+"('age', 'cholesterol', 'hemoglobin', 'testosterone', 'RH', 'A', 'B', 'PHY', 'SAR', 'SML', 'SMD')",0.7407761973106741
+"('age', 'cholesterol', 'temperature', 'testosterone', 'RH', 'A', 'B', 'PHY', 'SAR', 'SML', 'SMD')",0.7409206898743258
+"('age', 'blood pressure', 'hemoglobin', 'temperature', 'testosterone', 'weight', 'RH', 'A', 'B', 'PHY', 'SML', 'SMD')",0.7409268794157893
+"('age', 'blood pressure', 'cholesterol', 'hemoglobin', 'temperature', 'weight', 'A', 'B', 'PHY', 'SAR', 'SMD')",0.7435415549174887
+"('age', 'cholesterol', 'hemoglobin', 'temperature', 'testosterone', 'weight', 'A', 'B', 'PHY', 'SAR', 'SML', 'SMD')",0.7436617530389745
+"('age', 'blood pressure', 'cholesterol', 'hemoglobin', 'temperature', 'testosterone', 'weight', 'A', 'B', 'PHY', 'SML')",0.744876768112507
+"('age', 'cholesterol', 'hemoglobin', 'testosterone', 'weight', 'RH', 'A', 'B', 'PHY', 'SAR', 'SML')",0.7449100191079051
+"('blood pressure', 'cholesterol', 'temperature', 'testosterone', 'weight', 'A', 'B', 'PHY', 'SAR', 'SML', 'SMD')",0.7451956200520212
+"('blood pressure', 'cholesterol', 'temperature', 'testosterone', 'RH', 'A', 'B', 'PHY', 'SAR', 'SML', 'SMD')",0.7453311603901771
+"('age', 'blood pressure', 'cholesterol', 'temperature', 'testosterone', 'weight', 'RH', 'PHY', 'SAR', 'SML', 'SMD')",0.745916944285589
+"('age', 'cholesterol', 'temperature', 'testosterone', 'weight', 'RH', 'A', 'B', 'PHY', 'SAR', 'SMD')",0.7464345610413802
+"('age', 'cholesterol', 'hemoglobin', 'temperature', 'testosterone', 'weight', 'RH', 'A', 'PHY', 'SAR', 'SML')",0.7483265149683497
+"('age', 'blood pressure', 'cholesterol', 'temperature', 'weight', 'RH', 'B', 'PHY', 'SAR', 'SML', 'SMD')",0.7486631770919671
+"('age', 'blood pressure', 'cholesterol', 'temperature', 'testosterone', 'weight', 'RH', 'A', 'B', 'PHY', 'SML', 'SMD')",0.748682245382584
+"('age', 'cholesterol', 'hemoglobin', 'temperature', 'testosterone', 'RH', 'B', 'PHY', 'SAR', 'SML', 'SMD')",0.7487624672057306
+"('age', 'blood pressure', 'hemoglobin', 'testosterone', 'weight', 'A', 'B', 'PHY', 'SAR', 'SML', 'SMD')",0.7494040587346501
+"('blood pressure', 'cholesterol', 'hemoglobin', 'testosterone', 'weight', 'RH', 'A', 'B', 'PHY', 'SAR', 'SML', 'SMD')",0.7505228203164572
+"('age', 'blood pressure', 'cholesterol', 'hemoglobin', 'temperature', 'testosterone', 'RH', 'A', 'PHY', 'SAR', 'SML', 'SMD')",0.7507671850134001
+"('age', 'blood pressure', 'cholesterol', 'temperature', 'testosterone', 'weight', 'RH', 'A', 'B', 'PHY', 'SMD')",0.7513441234393211
+"('blood pressure', 'cholesterol', 'hemoglobin', 'temperature', 'testosterone', 'RH', 'A', 'B', 'PHY', 'SAR', 'SMD')",0.7517879853826331
+"('age', 'blood pressure', 'cholesterol', 'hemoglobin', 'temperature', 'testosterone', 'RH', 'B', 'PHY', 'SAR', 'SMD')",0.752114661035007
+"('age', 'blood pressure', 'hemoglobin', 'temperature', 'testosterone', 'weight', 'RH', 'A', 'B', 'PHY', 'SMD')",0.7523662378082459
+"('blood pressure', 'cholesterol', 'hemoglobin', 'temperature', 'testosterone', 'weight', 'A', 'B', 'PHY', 'SAR', 'SML', 'SMD')",0.7525148633718993
+"('blood pressure', 'cholesterol', 'hemoglobin', 'temperature', 'testosterone', 'RH', 'A', 'PHY', 'SAR', 'SML', 'SMD')",0.7529400909665588
+"('blood pressure', 'cholesterol', 'hemoglobin', 'testosterone', 'weight', 'RH', 'A', 'B', 'PHY', 'SAR', 'SMD')",0.7532257670997125
+"('age', 'hemoglobin', 'temperature', 'testosterone', 'weight', 'RH', 'A', 'B', 'PHY', 'SAR', 'SML', 'SMD')",0.7533194209312817
+"('age', 'blood pressure', 'cholesterol', 'hemoglobin', 'temperature', 'weight', 'B', 'PHY', 'SAR', 'SML', 'SMD')",0.7545172205512704
+"('age', 'blood pressure', 'cholesterol', 'hemoglobin', 'temperature', 'testosterone', 'weight', 'RH', 'PHY', 'SAR', 'SMD')",0.7547651869752063
+"('blood pressure', 'cholesterol', 'temperature', 'testosterone', 'weight', 'RH', 'A', 'B', 'PHY', 'SAR', 'SML')",0.7548100704774137
+"('age', 'cholesterol', 'hemoglobin', 'temperature', 'testosterone', 'weight', 'RH', 'A', 'B', 'PHY', 'SAR')",0.754851801145625
+"('age', 'blood pressure', 'cholesterol', 'hemoglobin', 'temperature', 'testosterone', 'weight', 'RH', 'A', 'B', 'PHY', 'SML', 'SMD')",0.7556586585865664
+"('age', 'blood pressure', 'cholesterol', 'testosterone', 'RH', 'A', 'B', 'PHY', 'SAR', 'SML', 'SMD')",0.7557045020632874
+"('blood pressure', 'cholesterol', 'temperature', 'testosterone', 'weight', 'RH', 'A', 'PHY', 'SAR', 'SML', 'SMD')",0.7566636695714639
+"('age', 'blood pressure', 'hemoglobin', 'temperature', 'testosterone', 'RH', 'A', 'B', 'PHY', 'SAR', 'SMD')",0.756991653405516
+"('age', 'cholesterol', 'hemoglobin', 'temperature', 'testosterone', 'weight', 'RH', 'A', 'B', 'PHY', 'SAR', 'SMD')",0.7571651254361467
+"('age', 'blood pressure', 'cholesterol', 'temperature', 'testosterone', 'RH', 'A', 'B', 'PHY', 'SAR', 'SML', 'SMD')",0.7572212707487076
+"('age', 'blood pressure', 'cholesterol', 'temperature', 'weight', 'RH', 'A', 'B', 'PHY', 'SAR', 'SML')",0.7574400345990269
+"('blood pressure', 'cholesterol', 'testosterone', 'weight', 'RH', 'A', 'B', 'PHY', 'SAR', 'SML', 'SMD')",0.7577920831299284
+"('age', 'blood pressure', 'hemoglobin', 'testosterone', 'weight', 'RH', 'A', 'B', 'PHY', 'SML', 'SMD')",0.757828986739063
+"('age', 'blood pressure', 'hemoglobin', 'temperature', 'weight', 'RH', 'B', 'PHY', 'SAR', 'SML', 'SMD')",0.7584001607492159
+"('age', 'blood pressure', 'cholesterol', 'hemoglobin', 'testosterone', 'weight', 'RH', 'A', 'PHY', 'SML', 'SMD')",0.7584505731994021
+"('age', 'blood pressure', 'cholesterol', 'hemoglobin', 'temperature', 'weight', 'RH', 'A', 'PHY', 'SML', 'SMD')",0.7591896802127326
+"('age', 'blood pressure', 'cholesterol', 'hemoglobin', 'temperature', 'testosterone', 'weight', 'A', 'PHY', 'SML', 'SMD')",0.7594650141371395
+"('blood pressure', 'cholesterol', 'hemoglobin', 'temperature', 'weight', 'RH', 'A', 'B', 'PHY', 'SAR', 'SMD')",0.7595455762650903
+"('age', 'blood pressure', 'cholesterol', 'temperature', 'testosterone', 'weight', 'A', 'B', 'PHY', 'SAR', 'SML', 'SMD')",0.7598809372204439
+"('age', 'blood pressure', 'temperature', 'testosterone', 'weight', 'RH', 'A', 'B', 'PHY', 'SML', 'SMD')",0.7600379862761392
+"('age', 'blood pressure', 'cholesterol', 'temperature', 'testosterone', 'weight', 'A', 'B', 'PHY', 'SAR', 'SMD')",0.7601310117196446
+"('age', 'blood pressure', 'hemoglobin', 'testosterone', 'weight', 'RH', 'A', 'PHY', 'SAR', 'SML', 'SMD')",0.760475903559694
+"('age', 'blood pressure', 'cholesterol', 'hemoglobin', 'temperature', 'weight', 'RH', 'A', 'B', 'PHY', 'SML')",0.7605898504357961
+"('age', 'blood pressure', 'cholesterol', 'hemoglobin', 'testosterone', 'A', 'B', 'PHY', 'SAR', 'SML', 'SMD')",0.7607308295333639
+"('age', 'blood pressure', 'cholesterol', 'temperature', 'testosterone', 'weight', 'RH', 'A', 'PHY', 'SAR', 'SML', 'SMD')",0.7614746219681781
+"('age', 'blood pressure', 'cholesterol', 'hemoglobin', 'temperature', 'testosterone', 'weight', 'PHY', 'SAR', 'SML', 'SMD')",0.7615489247079203
+"('age', 'cholesterol', 'temperature', 'testosterone', 'weight', 'RH', 'A', 'B', 'PHY', 'SAR', 'SML', 'SMD')",0.7618546941592149
+"('blood pressure', 'cholesterol', 'hemoglobin', 'temperature', 'testosterone', 'RH', 'A', 'B', 'PHY', 'SAR', 'SML', 'SMD')",0.762108261633558
+"('age', 'cholesterol', 'hemoglobin', 'weight', 'RH', 'A', 'B', 'PHY', 'SAR', 'SML', 'SMD')",0.7622703513728714
+"('age', 'cholesterol', 'hemoglobin', 'temperature', 'testosterone', 'weight', 'B', 'PHY', 'SAR', 'SML', 'SMD')",0.7626233863542082
+"('age', 'blood pressure', 'cholesterol', 'temperature', 'testosterone', 'weight', 'B', 'PHY', 'SAR', 'SML', 'SMD')",0.762679707401985
+"('age', 'blood pressure', 'cholesterol', 'temperature', 'weight', 'RH', 'A', 'B', 'PHY', 'SAR', 'SML', 'SMD')",0.7628134950435533
+"('age', 'blood pressure', 'cholesterol', 'hemoglobin', 'temperature', 'testosterone', 'weight', 'B', 'PHY', 'SAR', 'SML', 'SMD')",0.7630986131075012
+"('age', 'blood pressure', 'cholesterol', 'hemoglobin', 'temperature', 'testosterone', 'RH', 'A', 'B', 'PHY', 'SAR', 'SMD')",0.7631437510541615
+"('age', 'cholesterol', 'hemoglobin', 'temperature', 'testosterone', 'weight', 'A', 'B', 'PHY', 'SML', 'SMD')",0.7631929004811866
+"('age', 'blood pressure', 'cholesterol', 'temperature', 'weight', 'A', 'B', 'PHY', 'SAR', 'SML', 'SMD')",0.7633205151443931
+"('age', 'blood pressure', 'cholesterol', 'hemoglobin', 'temperature', 'weight', 'RH', 'A', 'B', 'PHY', 'SML', 'SMD')",0.7640904668816296
+"('age', 'blood pressure', 'cholesterol', 'hemoglobin', 'temperature', 'weight', 'RH', 'A', 'B', 'PHY', 'SAR')",0.7645843825917927
+"('age', 'blood pressure', 'cholesterol', 'temperature', 'testosterone', 'weight', 'RH', 'A', 'B', 'PHY', 'SML')",0.764693704467608
+"('age', 'blood pressure', 'cholesterol', 'hemoglobin', 'temperature', 'weight', 'RH', 'B', 'PHY', 'SAR', 'SML', 'SMD')",0.7651198572954735
+"('age', 'blood pressure', 'cholesterol', 'hemoglobin', 'temperature', 'testosterone', 'weight', 'B', 'PHY', 'SAR', 'SML')",0.7659177728229422
+"('age', 'cholesterol', 'hemoglobin', 'temperature', 'testosterone', 'weight', 'RH', 'B', 'PHY', 'SAR', 'SML', 'SMD')",0.7660405283910602
+"('cholesterol', 'hemoglobin', 'temperature', 'testosterone', 'weight', 'A', 'B', 'PHY', 'SAR', 'SML', 'SMD')",0.7663962638245887
+"('age', 'blood pressure', 'cholesterol', 'hemoglobin', 'temperature', 'weight', 'RH', 'A', 'PHY', 'SAR', 'SMD')",0.7664760634216745
+"('cholesterol', 'hemoglobin', 'temperature', 'testosterone', 'weight', 'RH', 'B', 'PHY', 'SAR', 'SML', 'SMD')",0.7666555551498261
+"('age', 'blood pressure', 'cholesterol', 'weight', 'RH', 'A', 'B', 'PHY', 'SAR', 'SML', 'SMD')",0.76712603071206
+"('age', 'blood pressure', 'cholesterol', 'temperature', 'testosterone', 'weight', 'RH', 'A', 'B', 'PHY', 'SAR', 'SML')",0.7674461946081553
+"('age', 'hemoglobin', 'temperature', 'testosterone', 'weight', 'RH', 'A', 'B', 'SAR', 'SML', 'SMD')",0.7676283080735005
+"('blood pressure', 'cholesterol', 'hemoglobin', 'temperature', 'testosterone', 'weight', 'RH', 'A', 'B', 'PHY', 'SAR', 'SMD')",0.767771897028317
+"('age', 'blood pressure', 'cholesterol', 'hemoglobin', 'testosterone', 'weight', 'RH', 'B', 'SAR', 'SML', 'SMD')",0.7682240512801943
+"('age', 'blood pressure', 'hemoglobin', 'temperature', 'testosterone', 'weight', 'RH', 'B', 'PHY', 'SAR', 'SML', 'SMD')",0.7683070418159813
+"('age', 'blood pressure', 'hemoglobin', 'temperature', 'testosterone', 'weight', 'A', 'B', 'PHY', 'SAR', 'SMD')",0.768665520188955
+"('blood pressure', 'cholesterol', 'hemoglobin', 'temperature', 'testosterone', 'weight', 'RH', 'A', 'B', 'PHY', 'SML', 'SMD')",0.7688601263042366
+"('blood pressure', 'cholesterol', 'hemoglobin', 'testosterone', 'RH', 'A', 'B', 'PHY', 'SAR', 'SML', 'SMD')",0.768956322543944
+"('age', 'blood pressure', 'cholesterol', 'hemoglobin', 'temperature', 'weight', 'A', 'PHY', 'SAR', 'SML', 'SMD')",0.7691449593385886
+"('blood pressure', 'hemoglobin', 'temperature', 'testosterone', 'weight', 'A', 'B', 'PHY', 'SAR', 'SML', 'SMD')",0.7691631368771692
+"('blood pressure', 'cholesterol', 'temperature', 'testosterone', 'weight', 'RH', 'A', 'B', 'PHY', 'SAR', 'SMD')",0.7693509449629822
+"('age', 'blood pressure', 'cholesterol', 'hemoglobin', 'testosterone', 'weight', 'A', 'B', 'PHY', 'SAR', 'SML', 'SMD')",0.7707078538683249
+"('age', 'blood pressure', 'cholesterol', 'testosterone', 'weight', 'RH', 'B', 'PHY', 'SAR', 'SML', 'SMD')",0.7707752459367286
+"('blood pressure', 'cholesterol', 'hemoglobin', 'temperature', 'testosterone', 'weight', 'RH', 'B', 'PHY', 'SAR', 'SML', 'SMD')",0.7711214971381283
+"('age', 'blood pressure', 'cholesterol', 'hemoglobin', 'testosterone', 'weight', 'A', 'B', 'SAR', 'SML', 'SMD')",0.7722081865165367
+"('age', 'blood pressure', 'cholesterol', 'hemoglobin', 'temperature', 'testosterone', 'RH', 'A', 'B', 'PHY', 'SML', 'SMD')",0.7722776786413019
+"('age', 'blood pressure', 'cholesterol', 'hemoglobin', 'temperature', 'testosterone', 'weight', 'A', 'B', 'PHY', 'SAR', 'SML')",0.7724157220640705
+"('age', 'blood pressure', 'cholesterol', 'hemoglobin', 'temperature', 'weight', 'RH', 'B', 'PHY', 'SAR', 'SML')",0.7725872599021066
+"('age', 'blood pressure', 'temperature', 'testosterone', 'weight', 'RH', 'B', 'PHY', 'SAR', 'SML', 'SMD')",0.7729075577070306
+"('age', 'blood pressure', 'hemoglobin', 'temperature', 'testosterone', 'weight', 'RH', 'PHY', 'SAR', 'SML', 'SMD')",0.7729727851220459
+"('age', 'blood pressure', 'cholesterol', 'hemoglobin', 'temperature', 'testosterone', 'A', 'B', 'PHY', 'SAR', 'SML')",0.7731458426468975
+"('blood pressure', 'cholesterol', 'hemoglobin', 'temperature', 'testosterone', 'RH', 'B', 'PHY', 'SAR', 'SML', 'SMD')",0.7735532569817511
+"('age', 'blood pressure', 'hemoglobin', 'temperature', 'weight', 'RH', 'A', 'B', 'PHY', 'SAR', 'SML')",0.7735599648888818
+"('age', 'blood pressure', 'cholesterol', 'hemoglobin', 'temperature', 'testosterone', 'weight', 'A', 'PHY', 'SAR', 'SMD')",0.7737105081718775
+"('cholesterol', 'hemoglobin', 'temperature', 'testosterone', 'weight', 'RH', 'A', 'PHY', 'SAR', 'SML', 'SMD')",0.7739060109278767
+"('age', 'blood pressure', 'cholesterol', 'temperature', 'weight', 'RH', 'A', 'PHY', 'SAR', 'SML', 'SMD')",0.7739402873984581
+"('age', 'blood pressure', 'cholesterol', 'hemoglobin', 'temperature', 'testosterone', 'RH', 'A', 'B', 'PHY', 'SAR', 'SML')",0.7740829915482216
+"('cholesterol', 'hemoglobin', 'testosterone', 'weight', 'RH', 'A', 'B', 'PHY', 'SAR', 'SML', 'SMD')",0.7748726428795496
+"('age', 'blood pressure', 'temperature', 'testosterone', 'weight', 'RH', 'A', 'B', 'PHY', 'SAR', 'SML')",0.7750045887957575
+"('age', 'blood pressure', 'hemoglobin', 'testosterone', 'weight', 'RH', 'A', 'B', 'PHY', 'SAR', 'SML')",0.7752288315827435
+"('age', 'hemoglobin', 'temperature', 'testosterone', 'weight', 'RH', 'A', 'B', 'PHY', 'SAR', 'SMD')",0.7752765250833229
+"('age', 'blood pressure', 'cholesterol', 'hemoglobin', 'temperature', 'testosterone', 'RH', 'A', 'B', 'PHY', 'SAR', 'SML', 'SMD')",0.7757917957568503
+"('age', 'blood pressure', 'cholesterol', 'hemoglobin', 'temperature', 'testosterone', 'weight', 'RH', 'B', 'PHY', 'SAR', 'SML', 'SMD')",0.7768402085143699
+"('age', 'blood pressure', 'cholesterol', 'hemoglobin', 'temperature', 'weight', 'RH', 'PHY', 'SAR', 'SML', 'SMD')",0.7773114106457265
+"('blood pressure', 'cholesterol', 'hemoglobin', 'temperature', 'testosterone', 'weight', 'A', 'B', 'PHY', 'SAR', 'SML')",0.7773484488523665
+"('age', 'blood pressure', 'cholesterol', 'hemoglobin', 'testosterone', 'RH', 'A', 'B', 'PHY', 'SML', 'SMD')",0.777394778126616
+"('age', 'blood pressure', 'cholesterol', 'temperature', 'testosterone', 'RH', 'A', 'B', 'PHY', 'SAR', 'SML')",0.7774380302891923
+"('age', 'blood pressure', 'cholesterol', 'hemoglobin', 'temperature', 'testosterone', 'weight', 'RH', 'A', 'B', 'PHY', 'SMD')",0.7776498939987316
+"('age', 'blood pressure', 'cholesterol', 'hemoglobin', 'temperature', 'A', 'B', 'PHY', 'SAR', 'SML', 'SMD')",0.7788612656179562
+"('blood pressure', 'cholesterol', 'hemoglobin', 'temperature', 'testosterone', 'weight', 'RH', 'A', 'PHY', 'SAR', 'SMD')",0.7792024011870875
+"('blood pressure', 'cholesterol', 'hemoglobin', 'temperature', 'weight', 'RH', 'A', 'B', 'PHY', 'SML', 'SMD')",0.7792058561545507
+"('age', 'blood pressure', 'temperature', 'testosterone', 'RH', 'A', 'B', 'PHY', 'SAR', 'SML', 'SMD')",0.7795372040645723
+"('age', 'blood pressure', 'cholesterol', 'hemoglobin', 'testosterone', 'weight', 'RH', 'A', 'PHY', 'SAR', 'SML', 'SMD')",0.7796577573999676
+"('blood pressure', 'cholesterol', 'hemoglobin', 'temperature', 'testosterone', 'A', 'B', 'PHY', 'SAR', 'SML', 'SMD')",0.7798357005923736
+"('age', 'blood pressure', 'cholesterol', 'hemoglobin', 'temperature', 'testosterone', 'weight', 'RH', 'B', 'PHY', 'SML', 'SMD')",0.7798464647232202
+"('age', 'cholesterol', 'hemoglobin', 'temperature', 'weight', 'RH', 'A', 'B', 'PHY', 'SML', 'SMD')",0.7801462231375662
+"('blood pressure', 'hemoglobin', 'temperature', 'testosterone', 'weight', 'RH', 'A', 'B', 'PHY', 'SAR', 'SML', 'SMD')",0.7804857913362989
+"('age', 'blood pressure', 'cholesterol', 'hemoglobin', 'testosterone', 'weight', 'RH', 'A', 'B', 'PHY', 'SML')",0.7805199766719486
+"('age', 'blood pressure', 'hemoglobin', 'temperature', 'weight', 'RH', 'A', 'PHY', 'SAR', 'SML', 'SMD')",0.7805952787430798
+"('age', 'blood pressure', 'cholesterol', 'temperature', 'testosterone', 'weight', 'RH', 'A', 'B', 'PHY', 'SAR')",0.7813832405030531
+"('age', 'blood pressure', 'cholesterol', 'hemoglobin', 'temperature', 'testosterone', 'weight', 'A', 'B', 'PHY', 'SAR', 'SMD')",0.7815152576521448
+"('age', 'cholesterol', 'hemoglobin', 'temperature', 'testosterone', 'weight', 'RH', 'B', 'PHY', 'SAR', 'SML')",0.7817123986722814
+"('age', 'blood pressure', 'hemoglobin', 'temperature', 'testosterone', 'weight', 'RH', 'A', 'B', 'PHY', 'SML')",0.7817392602154463
+"('age', 'blood pressure', 'cholesterol', 'hemoglobin', 'temperature', 'testosterone', 'weight', 'RH', 'B', 'PHY', 'SAR')",0.7817551941247197
+"('age', 'blood pressure', 'cholesterol', 'hemoglobin', 'temperature', 'testosterone', 'weight', 'RH', 'A', 'PHY', 'SAR', 'SML')",0.7821806273132822
+"('age', 'blood pressure', 'cholesterol', 'temperature', 'testosterone', 'RH', 'A', 'PHY', 'SAR', 'SML', 'SMD')",0.7823709267710937
+"('age', 'blood pressure', 'hemoglobin', 'temperature', 'testosterone', 'weight', 'RH', 'A', 'PHY', 'SAR', 'SML')",0.7828489389664836
+"('age', 'blood pressure', 'hemoglobin', 'temperature', 'testosterone', 'weight', 'A', 'B', 'PHY', 'SAR', 'SML', 'SMD')",0.7830234430356462
+"('age', 'blood pressure', 'cholesterol', 'hemoglobin', 'temperature', 'testosterone', 'RH', 'PHY', 'SAR', 'SML', 'SMD')",0.783288031645211
+"('age', 'blood pressure', 'cholesterol', 'hemoglobin', 'temperature', 'testosterone', 'weight', 'RH', 'B', 'SAR', 'SML', 'SMD')",0.7837790260109422
+"('blood pressure', 'temperature', 'testosterone', 'weight', 'RH', 'A', 'B', 'PHY', 'SAR', 'SML', 'SMD')",0.7839467864543255
+"('age', 'blood pressure', 'cholesterol', 'temperature', 'weight', 'RH', 'A', 'B', 'PHY', 'SML', 'SMD')",0.7849711551273374
+"('age', 'blood pressure', 'cholesterol', 'temperature', 'testosterone', 'weight', 'A', 'B', 'PHY', 'SML', 'SMD')",0.7850145868207935
+"('cholesterol', 'temperature', 'testosterone', 'weight', 'RH', 'A', 'B', 'PHY', 'SAR', 'SML', 'SMD')",0.7851361618556232
+"('age', 'hemoglobin', 'temperature', 'testosterone', 'weight', 'A', 'B', 'PHY', 'SAR', 'SML', 'SMD')",0.7852229038536128
+"('age', 'blood pressure', 'cholesterol', 'hemoglobin', 'temperature', 'weight', 'RH', 'A', 'B', 'PHY', 'SAR', 'SML')",0.7852709064692467
+"('age', 'blood pressure', 'cholesterol', 'hemoglobin', 'testosterone', 'weight', 'RH', 'A', 'B', 'SAR', 'SML')",0.7858520483901986
+"('age', 'cholesterol', 'hemoglobin', 'temperature', 'testosterone', 'weight', 'RH', 'A', 'B', 'PHY', 'SML', 'SMD')",0.7859698764493678
+"('blood pressure', 'cholesterol', 'hemoglobin', 'temperature', 'testosterone', 'weight', 'RH', 'A', 'B', 'PHY', 'SML')",0.7860005624335751
+"('blood pressure', 'cholesterol', 'hemoglobin', 'temperature', 'testosterone', 'weight', 'RH', 'A', 'PHY', 'SML', 'SMD')",0.7862262684838198
+"('age', 'blood pressure', 'cholesterol', 'hemoglobin', 'temperature', 'testosterone', 'A', 'B', 'PHY', 'SML', 'SMD')",0.7862289919873738
+"('age', 'blood pressure', 'hemoglobin', 'testosterone', 'weight', 'RH', 'A', 'B', 'PHY', 'SAR', 'SML', 'SMD')",0.7863585032495279
+"('blood pressure', 'hemoglobin', 'temperature', 'testosterone', 'weight', 'RH', 'B', 'PHY', 'SAR', 'SML', 'SMD')",0.7865251812376794
+"('age', 'blood pressure', 'cholesterol', 'hemoglobin', 'temperature', 'testosterone', 'RH', 'A', 'B', 'PHY', 'SAR')",0.7866889455723246
+"('age', 'cholesterol', 'hemoglobin', 'temperature', 'testosterone', 'RH', 'A', 'PHY', 'SAR', 'SML', 'SMD')",0.7867036111690198
+"('age', 'blood pressure', 'cholesterol', 'hemoglobin', 'temperature', 'testosterone', 'weight', 'RH', 'A', 'PHY', 'SAR')",0.7876584668226853
+"('blood pressure', 'cholesterol', 'hemoglobin', 'temperature', 'testosterone', 'weight', 'RH', 'PHY', 'SAR', 'SML', 'SMD')",0.787830368529048
+"('age', 'blood pressure', 'cholesterol', 'hemoglobin', 'testosterone', 'RH', 'A', 'PHY', 'SAR', 'SML', 'SMD')",0.7879905568058879
+"('age', 'blood pressure', 'cholesterol', 'hemoglobin', 'weight', 'RH', 'A', 'B', 'PHY', 'SAR', 'SMD')",0.7881687746470779
+"('age', 'blood pressure', 'hemoglobin', 'temperature', 'weight', 'RH', 'A', 'B', 'SAR', 'SML', 'SMD')",0.7890525385145388
+"('blood pressure', 'cholesterol', 'hemoglobin', 'temperature', 'weight', 'RH', 'B', 'PHY', 'SAR', 'SML', 'SMD')",0.7898753595426977
+"('age', 'blood pressure', 'cholesterol', 'hemoglobin', 'testosterone', 'weight', 'RH', 'B', 'PHY', 'SML', 'SMD')",0.7904109332113802
+"('blood pressure', 'cholesterol', 'hemoglobin', 'temperature', 'testosterone', 'RH', 'A', 'B', 'PHY', 'SML', 'SMD')",0.7905223196005964
+"('age', 'blood pressure', 'hemoglobin', 'temperature', 'testosterone', 'RH', 'A', 'B', 'PHY', 'SAR', 'SML', 'SMD')",0.7905254670217465
+"('blood pressure', 'cholesterol', 'hemoglobin', 'temperature', 'testosterone', 'weight', 'RH', 'B', 'PHY', 'SAR', 'SML')",0.7906083906680148
+"('age', 'blood pressure', 'cholesterol', 'hemoglobin', 'temperature', 'testosterone', 'RH', 'A', 'B', 'PHY', 'SML')",0.790609359955841
+"('age', 'blood pressure', 'hemoglobin', 'temperature', 'testosterone', 'A', 'B', 'PHY', 'SAR', 'SML', 'SMD')",0.7911384203752612
+"('age', 'blood pressure', 'cholesterol', 'hemoglobin', 'temperature', 'weight', 'RH', 'B', 'PHY', 'SAR', 'SMD')",0.7917941720387662
+"('age', 'blood pressure', 'cholesterol', 'hemoglobin', 'weight', 'RH', 'A', 'B', 'PHY', 'SML', 'SMD')",0.7924848786016947
+"('age', 'blood pressure', 'cholesterol', 'hemoglobin', 'weight', 'RH', 'A', 'B', 'SAR', 'SML', 'SMD')",0.7926115175887444
+"('age', 'blood pressure', 'cholesterol', 'hemoglobin', 'testosterone', 'weight', 'A', 'PHY', 'SAR', 'SML', 'SMD')",0.7928326509442523
+"('age', 'blood pressure', 'cholesterol', 'hemoglobin', 'temperature', 'testosterone', 'weight', 'RH', 'B', 'PHY', 'SML')",0.7929119157410717
+"('age', 'blood pressure', 'cholesterol', 'hemoglobin', 'temperature', 'testosterone', 'A', 'PHY', 'SAR', 'SML', 'SMD')",0.7929976997708084
+"('age', 'hemoglobin', 'temperature', 'weight', 'RH', 'A', 'B', 'PHY', 'SAR', 'SML', 'SMD')",0.7930580900019143
+"('blood pressure', 'cholesterol', 'hemoglobin', 'testosterone', 'weight', 'RH', 'A', 'PHY', 'SAR', 'SML', 'SMD')",0.7935114920924877
+"('age', 'blood pressure', 'cholesterol', 'hemoglobin', 'temperature', 'testosterone', 'weight', 'A', 'B', 'SML', 'SMD')",0.7937323461806709
+"('age', 'blood pressure', 'hemoglobin', 'temperature', 'testosterone', 'weight', 'RH', 'A', 'PHY', 'SAR', 'SML', 'SMD')",0.7938284245021829
+"('blood pressure', 'cholesterol', 'hemoglobin', 'testosterone', 'weight', 'A', 'B', 'PHY', 'SAR', 'SML', 'SMD')",0.7939196306033031
+"('age', 'blood pressure', 'cholesterol', 'hemoglobin', 'temperature', 'testosterone', 'RH', 'B', 'PHY', 'SAR', 'SML')",0.7939825320879249
+"('age', 'blood pressure', 'cholesterol', 'hemoglobin', 'temperature', 'weight', 'RH', 'A', 'B', 'PHY', 'SAR', 'SML', 'SMD')",0.7941059068749994
+"('age', 'blood pressure', 'cholesterol', 'hemoglobin', 'testosterone', 'weight', 'RH', 'B', 'PHY', 'SAR', 'SML', 'SMD')",0.7942329746700015
+"('age', 'blood pressure', 'cholesterol', 'testosterone', 'weight', 'RH', 'A', 'B', 'PHY', 'SAR', 'SML', 'SMD')",0.7945658568263634
+"('age', 'blood pressure', 'cholesterol', 'hemoglobin', 'temperature', 'testosterone', 'weight', 'RH', 'A', 'PHY', 'SML')",0.7947362717229467
+"('age', 'blood pressure', 'cholesterol', 'hemoglobin', 'testosterone', 'weight', 'A', 'B', 'PHY', 'SAR', 'SML')",0.7950862561820267
+"('cholesterol', 'hemoglobin', 'temperature', 'weight', 'RH', 'A', 'B', 'PHY', 'SAR', 'SML', 'SMD')",0.7952582124477084
+"('blood pressure', 'hemoglobin', 'temperature', 'testosterone', 'RH', 'A', 'B', 'PHY', 'SAR', 'SML', 'SMD')",0.7955872497278758
+"('age', 'blood pressure', 'cholesterol', 'hemoglobin', 'temperature', 'testosterone', 'RH', 'A', 'PHY', 'SAR', 'SMD')",0.7960622250329327
+"('age', 'blood pressure', 'cholesterol', 'hemoglobin', 'temperature', 'testosterone', 'weight', 'RH', 'A', 'PHY', 'SML', 'SMD')",0.7961875357988978
+"('age', 'blood pressure', 'cholesterol', 'hemoglobin', 'temperature', 'weight', 'RH', 'A', 'PHY', 'SAR', 'SML', 'SMD')",0.7966687492234532
+"('age', 'blood pressure', 'cholesterol', 'hemoglobin', 'temperature', 'testosterone', 'weight', 'RH', 'A', 'PHY', 'SMD')",0.7971406719122078
+"('age', 'blood pressure', 'hemoglobin', 'temperature', 'testosterone', 'weight', 'A', 'B', 'PHY', 'SML', 'SMD')",0.7971465634546493
+"('age', 'blood pressure', 'cholesterol', 'hemoglobin', 'temperature', 'testosterone', 'RH', 'A', 'B', 'PHY', 'SMD')",0.7971939467968772
+"('age', 'blood pressure', 'cholesterol', 'hemoglobin', 'temperature', 'testosterone', 'weight', 'RH', 'A', 'B', 'PHY', 'SML')",0.7975209028212925
+"('age', 'blood pressure', 'hemoglobin', 'temperature', 'testosterone', 'weight', 'RH', 'B', 'PHY', 'SAR', 'SML')",0.797522404025971
+"('blood pressure', 'cholesterol', 'hemoglobin', 'temperature', 'testosterone', 'weight', 'RH', 'A', 'B', 'PHY', 'SAR')",0.7975776705181156
+"('cholesterol', 'hemoglobin', 'temperature', 'testosterone', 'weight', 'RH', 'A', 'B', 'PHY', 'SAR', 'SML')",0.7981258491172802
+"('age', 'blood pressure', 'cholesterol', 'hemoglobin', 'temperature', 'testosterone', 'weight', 'RH', 'A', 'B', 'PHY', 'SAR', 'SML', 'SMD')",0.7984956450208771
+"('age', 'blood pressure', 'cholesterol', 'hemoglobin', 'temperature', 'testosterone', 'weight', 'RH', 'A', 'SAR', 'SML')",0.7985250144882294
+"('age', 'blood pressure', 'temperature', 'testosterone', 'weight', 'RH', 'A', 'B', 'PHY', 'SAR', 'SMD')",0.7991654316343729
+"('age', 'blood pressure', 'hemoglobin', 'temperature', 'testosterone', 'weight', 'RH', 'A', 'PHY', 'SAR', 'SMD')",0.799200680697048
+"('age', 'blood pressure', 'cholesterol', 'hemoglobin', 'temperature', 'RH', 'A', 'PHY', 'SAR', 'SML', 'SMD')",0.7997835578006488
+"('age', 'hemoglobin', 'temperature', 'testosterone', 'weight', 'RH', 'B', 'PHY', 'SAR', 'SML', 'SMD')",0.7998868424086987
+"('age', 'cholesterol', 'hemoglobin', 'temperature', 'RH', 'A', 'B', 'PHY', 'SAR', 'SML', 'SMD')",0.8000697901934082
+"('age', 'blood pressure', 'cholesterol', 'hemoglobin', 'temperature', 'testosterone', 'RH', 'B', 'PHY', 'SAR', 'SML', 'SMD')",0.8008960157389475
+"('blood pressure', 'cholesterol', 'hemoglobin', 'temperature', 'weight', 'RH', 'A', 'B', 'PHY', 'SAR', 'SML')",0.8012442113017129
+"('age', 'cholesterol', 'hemoglobin', 'testosterone', 'weight', 'RH', 'A', 'B', 'PHY', 'SML', 'SMD')",0.8021964069425951
+"('age', 'blood pressure', 'cholesterol', 'hemoglobin', 'temperature', 'testosterone', 'weight', 'RH', 'PHY', 'SAR', 'SML', 'SMD')",0.8022764951185267
+"('age', 'blood pressure', 'hemoglobin', 'temperature', 'testosterone', 'weight', 'B', 'PHY', 'SAR', 'SML', 'SMD')",0.8024566548943105
+"('age', 'blood pressure', 'cholesterol', 'hemoglobin', 'testosterone', 'RH', 'A', 'B', 'PHY', 'SAR', 'SML')",0.8024718307621911
+"('age', 'blood pressure', 'hemoglobin', 'weight', 'RH', 'A', 'B', 'PHY', 'SAR', 'SML', 'SMD')",0.8035675758025499
+"('age', 'cholesterol', 'hemoglobin', 'temperature', 'testosterone', 'weight', 'RH', 'PHY', 'SAR', 'SML', 'SMD')",0.803770132245249
+"('blood pressure', 'cholesterol', 'hemoglobin', 'temperature', 'testosterone', 'weight', 'RH', 'B', 'PHY', 'SAR', 'SMD')",0.8039481641169429
+"('age', 'blood pressure', 'cholesterol', 'hemoglobin', 'temperature', 'testosterone', 'weight', 'B', 'PHY', 'SML', 'SMD')",0.8040026582419049
+"('age', 'blood pressure', 'hemoglobin', 'temperature', 'testosterone', 'weight', 'RH', 'A', 'PHY', 'SML', 'SMD')",0.8043612406029352
+"('hemoglobin', 'temperature', 'testosterone', 'weight', 'RH', 'A', 'B', 'PHY', 'SAR', 'SML', 'SMD')",0.8044598211574248
+"('blood pressure', 'hemoglobin', 'temperature', 'weight', 'RH', 'A', 'B', 'PHY', 'SAR', 'SML', 'SMD')",0.8049136234475924
+"('age', 'cholesterol', 'hemoglobin', 'testosterone', 'weight', 'RH', 'A', 'B', 'PHY', 'SAR', 'SML', 'SMD')",0.8049933856640965
+"('cholesterol', 'hemoglobin', 'temperature', 'testosterone', 'RH', 'A', 'B', 'PHY', 'SAR', 'SML', 'SMD')",0.8053072779956233
+"('age', 'blood pressure', 'cholesterol', 'hemoglobin', 'temperature', 'testosterone', 'weight', 'RH', 'A', 'B', 'PHY')",0.8054385079369991
+"('age', 'blood pressure', 'cholesterol', 'hemoglobin', 'temperature', 'testosterone', 'weight', 'B', 'PHY', 'SAR', 'SMD')",0.8057073383189264
+"('age', 'blood pressure', 'cholesterol', 'temperature', 'testosterone', 'weight', 'RH', 'A', 'B', 'PHY', 'SAR', 'SMD')",0.8058417368928844
+"('age', 'blood pressure', 'cholesterol', 'hemoglobin', 'temperature', 'testosterone', 'A', 'B', 'PHY', 'SAR', 'SMD')",0.8062672526171226
+"('age', 'blood pressure', 'cholesterol', 'hemoglobin', 'temperature', 'weight', 'RH', 'A', 'B', 'PHY', 'SMD')",0.806318147952222
+"('age', 'blood pressure', 'temperature', 'testosterone', 'weight', 'RH', 'A', 'B', 'PHY', 'SAR', 'SML', 'SMD')",0.8064363955118442
+"('age', 'blood pressure', 'cholesterol', 'temperature', 'weight', 'RH', 'A', 'B', 'PHY', 'SAR', 'SMD')",0.8066150440250539
+"('blood pressure', 'cholesterol', 'hemoglobin', 'temperature', 'weight', 'A', 'B', 'PHY', 'SAR', 'SML', 'SMD')",0.807074362232989
+"('blood pressure', 'cholesterol', 'hemoglobin', 'temperature', 'testosterone', 'weight', 'RH', 'A', 'PHY', 'SAR', 'SML', 'SMD')",0.8071452104941194
+"('age', 'blood pressure', 'cholesterol', 'hemoglobin', 'temperature', 'testosterone', 'weight', 'RH', 'A', 'PHY', 'SAR', 'SMD')",0.8076137018231111
+"('age', 'blood pressure', 'hemoglobin', 'temperature', 'testosterone', 'weight', 'RH', 'B', 'PHY', 'SAR', 'SMD')",0.807856984628723
+"('age', 'blood pressure', 'cholesterol', 'hemoglobin', 'temperature', 'testosterone', 'weight', 'RH', 'PHY', 'SML', 'SMD')",0.808291200508346
+"('age', 'blood pressure', 'cholesterol', 'temperature', 'testosterone', 'weight', 'RH', 'A', 'B', 'PHY', 'SAR', 'SML', 'SMD')",0.8083403227895066
+"('age', 'blood pressure', 'cholesterol', 'temperature', 'testosterone', 'weight', 'RH', 'A', 'PHY', 'SAR', 'SML')",0.8083755479575435
+"('age', 'hemoglobin', 'temperature', 'testosterone', 'weight', 'RH', 'A', 'B', 'PHY', 'SML', 'SMD')",0.8087432643571726
+"('age', 'hemoglobin', 'testosterone', 'weight', 'RH', 'A', 'B', 'PHY', 'SAR', 'SML', 'SMD')",0.8087520709606929
+"('age', 'cholesterol', 'temperature', 'testosterone', 'weight', 'A', 'B', 'PHY', 'SAR', 'SML', 'SMD')",0.8094602681425849
+"('age', 'cholesterol', 'hemoglobin', 'temperature', 'weight', 'A', 'B', 'PHY', 'SAR', 'SML', 'SMD')",0.8095565822591556
+"('age', 'cholesterol', 'temperature', 'testosterone', 'weight', 'RH', 'A', 'B', 'PHY', 'SAR', 'SML')",0.809880182397854
+"('age', 'blood pressure', 'cholesterol', 'hemoglobin', 'weight', 'RH', 'B', 'PHY', 'SAR', 'SML', 'SMD')",0.8106449282621218
+"('age', 'blood pressure', 'hemoglobin', 'temperature', 'testosterone', 'RH', 'A', 'B', 'PHY', 'SML', 'SMD')",0.8108692363217692
+"('age', 'blood pressure', 'cholesterol', 'temperature', 'testosterone', 'weight', 'A', 'B', 'PHY', 'SAR', 'SML')",0.8109104879467096
+"('blood pressure', 'cholesterol', 'hemoglobin', 'temperature', 'testosterone', 'weight', 'RH', 'A', 'B', 'SML', 'SMD')",0.8111798352423801
+"('blood pressure', 'cholesterol', 'hemoglobin', 'temperature', 'testosterone', 'weight', 'A', 'B', 'PHY', 'SAR', 'SMD')",0.8113365326593028
+"('age', 'blood pressure', 'hemoglobin', 'temperature', 'weight', 'RH', 'A', 'B', 'PHY', 'SAR', 'SML', 'SMD')",0.8113412419019935
+"('age', 'blood pressure', 'cholesterol', 'hemoglobin', 'testosterone', 'weight', 'A', 'B', 'PHY', 'SAR', 'SMD')",0.812668599861665
+"('age', 'blood pressure', 'cholesterol', 'testosterone', 'weight', 'RH', 'A', 'B', 'PHY', 'SAR', 'SML')",0.812688206211994
+"('age', 'blood pressure', 'cholesterol', 'hemoglobin', 'temperature', 'testosterone', 'weight', 'RH', 'A', 'PHY', 'SAR', 'SML', 'SMD')",0.8127510730918381
+"('age', 'blood pressure', 'cholesterol', 'hemoglobin', 'testosterone', 'weight', 'RH', 'A', 'B', 'PHY', 'SML', 'SMD')",0.813348180233585
+"('age', 'cholesterol', 'temperature', 'testosterone', 'weight', 'RH', 'B', 'PHY', 'SAR', 'SML', 'SMD')",0.8133507396960885
+"('age', 'cholesterol', 'hemoglobin', 'temperature', 'testosterone', 'RH', 'A', 'B', 'PHY', 'SAR', 'SML', 'SMD')",0.8135043572720718
+"('age', 'blood pressure', 'cholesterol', 'hemoglobin', 'temperature', 'testosterone', 'RH', 'B', 'PHY', 'SML', 'SMD')",0.8135162413964568
+"('age', 'blood pressure', 'cholesterol', 'hemoglobin', 'testosterone', 'RH', 'B', 'PHY', 'SAR', 'SML', 'SMD')",0.8135284769503384
+"('age', 'blood pressure', 'cholesterol', 'temperature', 'testosterone', 'weight', 'RH', 'A', 'B', 'SAR', 'SMD')",0.8135628392484404
+"('age', 'blood pressure', 'cholesterol', 'hemoglobin', 'temperature', 'testosterone', 'weight', 'A', 'B', 'PHY', 'SMD')",0.8139933181731785
+"('age', 'blood pressure', 'cholesterol', 'testosterone', 'weight', 'A', 'B', 'PHY', 'SAR', 'SML', 'SMD')",0.8145291723753655
+"('blood pressure', 'cholesterol', 'temperature', 'testosterone', 'weight', 'RH', 'B', 'PHY', 'SAR', 'SML', 'SMD')",0.8148762106762375
+"('age', 'blood pressure', 'hemoglobin', 'temperature', 'testosterone', 'RH', 'A', 'B', 'PHY', 'SAR', 'SML')",0.8153016747305343
+"('blood pressure', 'cholesterol', 'temperature', 'testosterone', 'weight', 'RH', 'A', 'B', 'PHY', 'SML', 'SMD')",0.8153430477746054
+"('age', 'blood pressure', 'cholesterol', 'temperature', 'testosterone', 'A', 'B', 'PHY', 'SAR', 'SML', 'SMD')",0.8154593836566686
+"('age', 'blood pressure', 'cholesterol', 'hemoglobin', 'temperature', 'testosterone', 'weight', 'RH', 'A', 'B', 'PHY', 'SAR', 'SMD')",0.8162253987491422
+"('blood pressure', 'cholesterol', 'hemoglobin', 'testosterone', 'weight', 'RH', 'B', 'PHY', 'SAR', 'SML', 'SMD')",0.8166969061475764
+"('age', 'blood pressure', 'temperature', 'testosterone', 'weight', 'A', 'B', 'PHY', 'SAR', 'SML', 'SMD')",0.8172692022233083
+"('age', 'cholesterol', 'hemoglobin', 'temperature', 'weight', 'RH', 'A', 'PHY', 'SAR', 'SML', 'SMD')",0.8177387718076863
+"('age', 'blood pressure', 'hemoglobin', 'temperature', 'weight', 'RH', 'A', 'B', 'PHY', 'SML', 'SMD')",0.8177888170553802
+"('age', 'cholesterol', 'hemoglobin', 'temperature', 'weight', 'RH', 'A', 'B', 'PHY', 'SAR', 'SMD')",0.8177953761528935
+"('age', 'blood pressure', 'cholesterol', 'hemoglobin', 'temperature', 'testosterone', 'RH', 'A', 'PHY', 'SML', 'SMD')",0.8182786698932805
+"('age', 'cholesterol', 'hemoglobin', 'testosterone', 'weight', 'RH', 'B', 'PHY', 'SAR', 'SML', 'SMD')",0.8190313055610619
+"('age', 'cholesterol', 'hemoglobin', 'temperature', 'testosterone', 'weight', 'A', 'PHY', 'SAR', 'SML', 'SMD')",0.8191139177068972
+"('age', 'blood pressure', 'cholesterol', 'hemoglobin', 'temperature', 'weight', 'RH', 'A', 'B', 'PHY', 'SAR', 'SMD')",0.819195599922814
+"('age', 'cholesterol', 'hemoglobin', 'temperature', 'testosterone', 'weight', 'RH', 'A', 'PHY', 'SAR', 'SMD')",0.819319985563279
+"('age', 'blood pressure', 'hemoglobin', 'temperature', 'testosterone', 'weight', 'RH', 'A', 'B', 'SAR', 'SML', 'SMD')",0.8196339671968282
+"('age', 'blood pressure', 'cholesterol', 'hemoglobin', 'temperature', 'RH', 'A', 'B', 'PHY', 'SAR', 'SML', 'SMD')",0.8198293528400686
+"('age', 'blood pressure', 'hemoglobin', 'temperature', 'testosterone', 'weight', 'RH', 'A', 'B', 'PHY', 'SAR', 'SML', 'SMD')",0.8202791149267129
+"('age', 'cholesterol', 'hemoglobin', 'temperature', 'testosterone', 'weight', 'RH', 'A', 'PHY', 'SML', 'SMD')",0.8204161096927554
+"('age', 'blood pressure', 'cholesterol', 'hemoglobin', 'testosterone', 'RH', 'A', 'B', 'PHY', 'SAR', 'SMD')",0.820710695017203
+"('age', 'blood pressure', 'cholesterol', 'hemoglobin', 'temperature', 'RH', 'A', 'B', 'PHY', 'SAR', 'SML')",0.821036707962374
+"('blood pressure', 'cholesterol', 'hemoglobin', 'weight', 'RH', 'A', 'B', 'PHY', 'SAR', 'SML', 'SMD')",0.8213896236209945
+"('age', 'cholesterol', 'hemoglobin', 'temperature', 'weight', 'RH', 'A', 'B', 'PHY', 'SAR', 'SML', 'SMD')",0.8214574034140576
+"('age', 'cholesterol', 'testosterone', 'weight', 'RH', 'A', 'B', 'PHY', 'SAR', 'SML', 'SMD')",0.8216067299943167
+"('age', 'blood pressure', 'cholesterol', 'hemoglobin', 'testosterone', 'weight', 'A', 'B', 'PHY', 'SML', 'SMD')",0.8225517024214075
+"('age', 'blood pressure', 'cholesterol', 'temperature', 'testosterone', 'weight', 'RH', 'B', 'PHY', 'SAR', 'SML')",0.8225645657389127
+"('age', 'cholesterol', 'hemoglobin', 'temperature', 'testosterone', 'weight', 'RH', 'A', 'B', 'PHY', 'SML')",0.8227587353652316
+"('blood pressure', 'cholesterol', 'hemoglobin', 'temperature', 'weight', 'RH', 'A', 'B', 'SAR', 'SML', 'SMD')",0.8236013655702553
+"('blood pressure', 'cholesterol', 'hemoglobin', 'temperature', 'testosterone', 'weight', 'A', 'B', 'PHY', 'SML', 'SMD')",0.8237407717287691
+"('age', 'blood pressure', 'cholesterol', 'hemoglobin', 'temperature', 'testosterone', 'RH', 'A', 'B', 'SAR', 'SML', 'SMD')",0.8244884341001261
+"('age', 'blood pressure', 'cholesterol', 'testosterone', 'weight', 'RH', 'A', 'PHY', 'SAR', 'SML', 'SMD')",0.8245480549311499
+"('blood pressure', 'cholesterol', 'hemoglobin', 'testosterone', 'weight', 'RH', 'A', 'B', 'PHY', 'SML', 'SMD')",0.8245482863065258
+"('age', 'cholesterol', 'hemoglobin', 'temperature', 'testosterone', 'weight', 'RH', 'A', 'B', 'PHY', 'SAR', 'SML')",0.8247976707810947
+"('age', 'blood pressure', 'cholesterol', 'hemoglobin', 'weight', 'RH', 'A', 'B', 'PHY', 'SAR', 'SML')",0.8248754481542753
+"('age', 'blood pressure', 'cholesterol', 'hemoglobin', 'temperature', 'testosterone', 'B', 'PHY', 'SAR', 'SML', 'SMD')",0.82490282584337
+"('age', 'blood pressure', 'hemoglobin', 'testosterone', 'weight', 'RH', 'A', 'B', 'SAR', 'SML', 'SMD')",0.8254317125692329
+"('age', 'blood pressure', 'cholesterol', 'temperature', 'testosterone', 'RH', 'B', 'PHY', 'SAR', 'SML', 'SMD')",0.8255682912950223
+"('age', 'blood pressure', 'cholesterol', 'temperature', 'testosterone', 'weight', 'RH', 'B', 'PHY', 'SAR', 'SML', 'SMD')",0.8256185279969934
+"('age', 'temperature', 'testosterone', 'weight', 'RH', 'A', 'B', 'PHY', 'SAR', 'SML', 'SMD')",0.8258673403907305
+"('age', 'cholesterol', 'hemoglobin', 'temperature', 'testosterone', 'weight', 'RH', 'A', 'B', 'SAR', 'SMD')",0.8259325202673741
+"('age', 'blood pressure', 'hemoglobin', 'testosterone', 'weight', 'RH', 'B', 'PHY', 'SAR', 'SML', 'SMD')",0.8264835219683898
+"('age', 'blood pressure', 'cholesterol', 'hemoglobin', 'temperature', 'testosterone', 'weight', 'RH', 'PHY', 'SAR', 'SML')",0.8274808536089936
+"('age', 'cholesterol', 'hemoglobin', 'testosterone', 'weight', 'RH', 'A', 'B', 'PHY', 'SAR', 'SMD')",0.8275035265473857
+"('age', 'blood pressure', 'cholesterol', 'testosterone', 'weight', 'RH', 'A', 'B', 'PHY', 'SML', 'SMD')",0.8280563751444008
+"('age', 'blood pressure', 'cholesterol', 'testosterone', 'weight', 'RH', 'A', 'B', 'SAR', 'SML', 'SMD')",0.8281771632929718
+"('age', 'blood pressure', 'hemoglobin', 'temperature', 'testosterone', 'RH', 'B', 'PHY', 'SAR', 'SML', 'SMD')",0.8286058865458955
+"('age', 'blood pressure', 'cholesterol', 'hemoglobin', 'temperature', 'testosterone', 'weight', 'A', 'B', 'PHY', 'SAR', 'SML', 'SMD')",0.8287765542721748
+"('age', 'cholesterol', 'hemoglobin', 'temperature', 'testosterone', 'weight', 'RH', 'A', 'B', 'PHY', 'SMD')",0.8288682008397096
+"('age', 'blood pressure', 'cholesterol', 'hemoglobin', 'temperature', 'testosterone', 'weight', 'RH', 'B', 'PHY', 'SAR', 'SMD')",0.8292637138123672
+"('blood pressure', 'hemoglobin', 'temperature', 'testosterone', 'weight', 'RH', 'A', 'B', 'PHY', 'SAR', 'SML')",0.8292902916388161
+"('age', 'cholesterol', 'hemoglobin', 'temperature', 'testosterone', 'weight', 'RH', 'B', 'PHY', 'SML', 'SMD')",0.8296026406066436
+"('age', 'blood pressure', 'cholesterol', 'hemoglobin', 'temperature', 'testosterone', 'weight', 'RH', 'B', 'PHY', 'SMD')",0.8307207927778273
+"('blood pressure', 'cholesterol', 'hemoglobin', 'temperature', 'testosterone', 'weight', 'A', 'B', 'SAR', 'SML', 'SMD')",0.8313535963302001
+"('blood pressure', 'cholesterol', 'hemoglobin', 'temperature', 'testosterone', 'weight', 'RH', 'A', 'B', 'SAR', 'SML')",0.8320450621888832
+"('age', 'cholesterol', 'hemoglobin', 'temperature', 'weight', 'RH', 'B', 'PHY', 'SAR', 'SML', 'SMD')",0.8322057368433954
+"('age', 'blood pressure', 'cholesterol', 'temperature', 'testosterone', 'RH', 'A', 'B', 'PHY', 'SAR', 'SMD')",0.8323588383522739
+"('age', 'blood pressure', 'cholesterol', 'hemoglobin', 'temperature', 'testosterone', 'weight', 'A', 'B', 'PHY', 'SAR')",0.8324200249002544
+"('cholesterol', 'hemoglobin', 'temperature', 'testosterone', 'weight', 'RH', 'A', 'B', 'SAR', 'SML', 'SMD')",0.8328810865725746
+"('blood pressure', 'cholesterol', 'temperature', 'testosterone', 'weight', 'RH', 'A', 'B', 'PHY', 'SAR', 'SML', 'SMD')",0.8338625356770634
+"('age', 'blood pressure', 'cholesterol', 'temperature', 'testosterone', 'weight', 'RH', 'A', 'PHY', 'SAR', 'SMD')",0.8338702793745816
+"('age', 'blood pressure', 'temperature', 'testosterone', 'weight', 'RH', 'A', 'B', 'SAR', 'SML', 'SMD')",0.8339151786890187
+"('age', 'blood pressure', 'cholesterol', 'temperature', 'weight', 'RH', 'A', 'B', 'SAR', 'SML', 'SMD')",0.8347775345742311
+"('age', 'blood pressure', 'cholesterol', 'hemoglobin', 'temperature', 'testosterone', 'weight', 'A', 'B', 'SAR', 'SML')",0.8353131623245347
+"('age', 'blood pressure', 'cholesterol', 'hemoglobin', 'temperature', 'weight', 'RH', 'A', 'B', 'SAR', 'SML', 'SMD')",0.8360143173205373
+"('age', 'blood pressure', 'cholesterol', 'hemoglobin', 'testosterone', 'weight', 'RH', 'A', 'B', 'PHY', 'SAR', 'SML')",0.8360264621153297
+"('age', 'blood pressure', 'cholesterol', 'temperature', 'testosterone', 'weight', 'A', 'PHY', 'SAR', 'SML', 'SMD')",0.8361469688681326
+"('age', 'blood pressure', 'cholesterol', 'hemoglobin', 'temperature', 'testosterone', 'weight', 'RH', 'B', 'PHY', 'SAR', 'SML')",0.8364636195797147
+"('age', 'cholesterol', 'hemoglobin', 'temperature', 'weight', 'RH', 'A', 'B', 'PHY', 'SAR', 'SML')",0.8364878035688982
+"('age', 'blood pressure', 'cholesterol', 'temperature', 'testosterone', 'weight', 'A', 'B', 'SAR', 'SML', 'SMD')",0.8366421280369829
+"('age', 'blood pressure', 'cholesterol', 'hemoglobin', 'temperature', 'RH', 'A', 'B', 'PHY', 'SML', 'SMD')",0.8368849738499269
+"('age', 'blood pressure', 'hemoglobin', 'temperature', 'testosterone', 'weight', 'A', 'B', 'PHY', 'SAR', 'SML')",0.8382469819699169
+"('age', 'blood pressure', 'hemoglobin', 'temperature', 'RH', 'A', 'B', 'PHY', 'SAR', 'SML', 'SMD')",0.8383954485402423
+"('age', 'blood pressure', 'cholesterol', 'hemoglobin', 'temperature', 'testosterone', 'weight', 'RH', 'A', 'B', 'PHY', 'SAR')",0.8385157026546743
+"('age', 'cholesterol', 'hemoglobin', 'temperature', 'testosterone', 'weight', 'RH', 'A', 'B', 'PHY', 'SAR', 'SML', 'SMD')",0.8389694231939465
+"('blood pressure', 'cholesterol', 'temperature', 'weight', 'RH', 'A', 'B', 'PHY', 'SAR', 'SML', 'SMD')",0.8389743132797521
+"('age', 'blood pressure', 'cholesterol', 'hemoglobin', 'temperature', 'testosterone', 'weight', 'RH', 'A', 'B', 'PHY', 'SAR', 'SML')",0.8389981914747636
+"('age', 'cholesterol', 'hemoglobin', 'temperature', 'testosterone', 'RH', 'A', 'B', 'PHY', 'SML', 'SMD')",0.8392283602303864
+"('age', 'cholesterol', 'hemoglobin', 'temperature', 'testosterone', 'weight', 'RH', 'A', 'B', 'SAR', 'SML')",0.839923904206277
+"('blood pressure', 'cholesterol', 'hemoglobin', 'temperature', 'testosterone', 'weight', 'A', 'PHY', 'SAR', 'SML', 'SMD')",0.8399461425973318
+"('age', 'blood pressure', 'cholesterol', 'temperature', 'testosterone', 'weight', 'RH', 'B', 'PHY', 'SML', 'SMD')",0.8399497602792041
+"('age', 'blood pressure', 'cholesterol', 'hemoglobin', 'temperature', 'RH', 'A', 'B', 'PHY', 'SAR', 'SMD')",0.840306954640781
+"('age', 'blood pressure', 'hemoglobin', 'temperature', 'testosterone', 'RH', 'A', 'PHY', 'SAR', 'SML', 'SMD')",0.8406382025632784
+"('age', 'blood pressure', 'cholesterol', 'hemoglobin', 'temperature', 'testosterone', 'weight', 'RH', 'B', 'SML', 'SMD')",0.8406919539550681
+"('blood pressure', 'cholesterol', 'hemoglobin', 'temperature', 'testosterone', 'RH', 'A', 'B', 'SAR', 'SML', 'SMD')",0.8413524828195553
+"('blood pressure', 'cholesterol', 'hemoglobin', 'temperature', 'testosterone', 'RH', 'A', 'B', 'PHY', 'SAR', 'SML')",0.8433572414896696
+"('age', 'blood pressure', 'cholesterol', 'temperature', 'RH', 'A', 'B', 'PHY', 'SAR', 'SML', 'SMD')",0.8441433601247724
+"('age', 'blood pressure', 'cholesterol', 'hemoglobin', 'temperature', 'weight', 'A', 'B', 'PHY', 'SAR', 'SML', 'SMD')",0.8446472820395369
+"('age', 'blood pressure', 'hemoglobin', 'temperature', 'weight', 'RH', 'A', 'B', 'PHY', 'SAR', 'SMD')",0.8454879688559409
+"('age', 'blood pressure', 'hemoglobin', 'temperature', 'testosterone', 'weight', 'RH', 'A', 'B', 'PHY', 'SAR', 'SML')",0.8464317448333719
+"('cholesterol', 'hemoglobin', 'temperature', 'testosterone', 'weight', 'RH', 'A', 'B', 'PHY', 'SAR', 'SMD')",0.8466183813909036
+"('age', 'blood pressure', 'cholesterol', 'temperature', 'testosterone', 'RH', 'A', 'B', 'SAR', 'SML', 'SMD')",0.8476533872708143
+"('age', 'blood pressure', 'cholesterol', 'hemoglobin', 'temperature', 'testosterone', 'weight', 'RH', 'B', 'SAR', 'SMD')",0.8477208468432698
+"('age', 'blood pressure', 'hemoglobin', 'testosterone', 'RH', 'A', 'B', 'PHY', 'SAR', 'SML', 'SMD')",0.8480633985719034
+"('age', 'blood pressure', 'hemoglobin', 'temperature', 'testosterone', 'weight', 'A', 'B', 'SAR', 'SML', 'SMD')",0.8481479978792152
+"('age', 'blood pressure', 'hemoglobin', 'temperature', 'testosterone', 'weight', 'RH', 'A', 'B', 'PHY', 'SAR')",0.8490174659670979
+"('age', 'blood pressure', 'cholesterol', 'temperature', 'testosterone', 'weight', 'RH', 'A', 'B', 'SML', 'SMD')",0.8495251391121498
+"('blood pressure', 'cholesterol', 'hemoglobin', 'temperature', 'testosterone', 'weight', 'RH', 'B', 'SAR', 'SML', 'SMD')",0.8496068391665889
+"('age', 'blood pressure', 'temperature', 'testosterone', 'weight', 'RH', 'A', 'PHY', 'SAR', 'SML', 'SMD')",0.8498690277699249
+"('age', 'blood pressure', 'cholesterol', 'hemoglobin', 'temperature', 'weight', 'RH', 'A', 'B', 'SAR', 'SMD')",0.8498884072365136
+"('age', 'cholesterol', 'hemoglobin', 'temperature', 'testosterone', 'weight', 'RH', 'B', 'PHY', 'SAR', 'SMD')",0.8500439573927954
+"('age', 'cholesterol', 'hemoglobin', 'temperature', 'testosterone', 'RH', 'A', 'B', 'PHY', 'SAR', 'SMD')",0.8508212714231271
+"('age', 'blood pressure', 'cholesterol', 'hemoglobin', 'temperature', 'testosterone', 'weight', 'RH', 'A', 'B', 'SAR', 'SMD')",0.8511099830987744
+"('blood pressure', 'hemoglobin', 'temperature', 'testosterone', 'weight', 'RH', 'A', 'B', 'PHY', 'SAR', 'SMD')",0.8515174867418959
+"('age', 'blood pressure', 'cholesterol', 'hemoglobin', 'temperature', 'testosterone', 'weight', 'RH', 'B', 'SAR', 'SML')",0.8517290581565397
+"('age', 'blood pressure', 'hemoglobin', 'temperature', 'testosterone', 'weight', 'RH', 'B', 'SAR', 'SML', 'SMD')",0.8517803319732689
+"('age', 'blood pressure', 'cholesterol', 'temperature', 'testosterone', 'weight', 'RH', 'B', 'SAR', 'SML', 'SMD')",0.8532481526705001
+"('age', 'blood pressure', 'cholesterol', 'testosterone', 'weight', 'RH', 'A', 'B', 'PHY', 'SAR', 'SMD')",0.8533884176027781
+"('age', 'blood pressure', 'cholesterol', 'hemoglobin', 'temperature', 'testosterone', 'weight', 'RH', 'A', 'SML', 'SMD')",0.8538020367119399
+"('age', 'blood pressure', 'cholesterol', 'hemoglobin', 'temperature', 'weight', 'RH', 'A', 'SAR', 'SML', 'SMD')",0.8541435291476223
+"('age', 'blood pressure', 'hemoglobin', 'temperature', 'testosterone', 'weight', 'A', 'PHY', 'SAR', 'SML', 'SMD')",0.8560951955185349
+"('age', 'blood pressure', 'cholesterol', 'temperature', 'testosterone', 'weight', 'RH', 'A', 'PHY', 'SML', 'SMD')",0.8578027925973968
+"('blood pressure', 'cholesterol', 'hemoglobin', 'temperature', 'testosterone', 'weight', 'RH', 'A', 'B', 'SAR', 'SML', 'SMD')",0.8578392400689506
+"('age', 'blood pressure', 'cholesterol', 'hemoglobin', 'testosterone', 'weight', 'RH', 'B', 'PHY', 'SAR', 'SMD')",0.8581082567274815
+"('age', 'blood pressure', 'cholesterol', 'hemoglobin', 'temperature', 'weight', 'RH', 'A', 'PHY', 'SAR', 'SML')",0.8582670292186819
+"('age', 'blood pressure', 'cholesterol', 'hemoglobin', 'temperature', 'testosterone', 'weight', 'A', 'PHY', 'SAR', 'SML', 'SMD')",0.8583585662672949
+"('age', 'blood pressure', 'cholesterol', 'hemoglobin', 'temperature', 'testosterone', 'RH', 'A', 'B', 'SAR', 'SML')",0.8584299104485673
+"('age', 'blood pressure', 'cholesterol', 'hemoglobin', 'temperature', 'testosterone', 'weight', 'RH', 'A', 'SAR', 'SML', 'SMD')",0.8584322379675414
+"('age', 'blood pressure', 'hemoglobin', 'temperature', 'testosterone', 'weight', 'RH', 'A', 'B', 'PHY', 'SAR', 'SMD')",0.8596217104236519
+"('blood pressure', 'cholesterol', 'hemoglobin', 'temperature', 'RH', 'A', 'B', 'PHY', 'SAR', 'SML', 'SMD')",0.8596621744904006
+"('blood pressure', 'cholesterol', 'hemoglobin', 'temperature', 'testosterone', 'weight', 'RH', 'B', 'PHY', 'SML', 'SMD')",0.8599206379045937
+"('blood pressure', 'hemoglobin', 'temperature', 'testosterone', 'weight', 'RH', 'A', 'B', 'SAR', 'SML', 'SMD')",0.8632627435941873
+"('age', 'cholesterol', 'temperature', 'weight', 'RH', 'A', 'B', 'PHY', 'SAR', 'SML', 'SMD')",0.8643499032230282
+"('age', 'blood pressure', 'cholesterol', 'hemoglobin', 'temperature', 'testosterone', 'weight', 'RH', 'A', 'B', 'SML')",0.864609386247185
+"('age', 'cholesterol', 'hemoglobin', 'temperature', 'testosterone', 'weight', 'RH', 'B', 'SAR', 'SML', 'SMD')",0.8649756831033705
+"('age', 'blood pressure', 'cholesterol', 'hemoglobin', 'temperature', 'testosterone', 'weight', 'B', 'SAR', 'SML', 'SMD')",0.8654894009479965
+"('age', 'blood pressure', 'cholesterol', 'hemoglobin', 'testosterone', 'weight', 'RH', 'A', 'B', 'SAR', 'SMD')",0.8669906380587243
+"('blood pressure', 'cholesterol', 'hemoglobin', 'temperature', 'testosterone', 'weight', 'B', 'PHY', 'SAR', 'SML', 'SMD')",0.8673798219927578
+"('age', 'blood pressure', 'cholesterol', 'hemoglobin', 'temperature', 'RH', 'A', 'B', 'SAR', 'SML', 'SMD')",0.868008652685758
+"('age', 'cholesterol', 'hemoglobin', 'temperature', 'testosterone', 'RH', 'A', 'B', 'PHY', 'SAR', 'SML')",0.8683683435481517
+"('age', 'blood pressure', 'hemoglobin', 'temperature', 'testosterone', 'weight', 'RH', 'A', 'B', 'SAR', 'SMD')",0.8689244930781551
+"('age', 'cholesterol', 'hemoglobin', 'temperature', 'testosterone', 'weight', 'RH', 'A', 'SAR', 'SML', 'SMD')",0.8694792580306364
+"('age', 'cholesterol', 'hemoglobin', 'testosterone', 'weight', 'RH', 'A', 'B', 'SAR', 'SML', 'SMD')",0.8702160769784103
+"('age', 'cholesterol', 'hemoglobin', 'temperature', 'weight', 'RH', 'A', 'B', 'SAR', 'SML', 'SMD')",0.8702521695444306
+"('blood pressure', 'cholesterol', 'hemoglobin', 'temperature', 'testosterone', 'weight', 'RH', 'A', 'B', 'PHY', 'SMD')",0.8716843680621721
+"('age', 'blood pressure', 'temperature', 'weight', 'RH', 'A', 'B', 'PHY', 'SAR', 'SML', 'SMD')",0.8720924198597705
+"('age', 'blood pressure', 'cholesterol', 'hemoglobin', 'testosterone', 'weight', 'RH', 'A', 'SAR', 'SML', 'SMD')",0.8723909365387896
+"('age', 'blood pressure', 'cholesterol', 'hemoglobin', 'weight', 'RH', 'A', 'B', 'PHY', 'SAR', 'SML', 'SMD')",0.8732360352710311
+"('age', 'blood pressure', 'cholesterol', 'hemoglobin', 'temperature', 'testosterone', 'weight', 'RH', 'A', 'B', 'SAR', 'SML', 'SMD')",0.8762163413079739
+"('age', 'blood pressure', 'cholesterol', 'hemoglobin', 'testosterone', 'weight', 'RH', 'PHY', 'SAR', 'SML', 'SMD')",0.877607225304661
+"('age', 'blood pressure', 'cholesterol', 'hemoglobin', 'temperature', 'testosterone', 'weight', 'A', 'SAR', 'SML', 'SMD')",0.8789984065270321
+"('age', 'hemoglobin', 'temperature', 'testosterone', 'weight', 'RH', 'A', 'B', 'PHY', 'SAR', 'SML')",0.8794426677202498
+"('blood pressure', 'cholesterol', 'hemoglobin', 'temperature', 'testosterone', 'weight', 'RH', 'A', 'SAR', 'SML', 'SMD')",0.8801148021935224
+"('age', 'blood pressure', 'cholesterol', 'hemoglobin', 'temperature', 'testosterone', 'weight', 'A', 'PHY', 'SAR', 'SML')",0.8804812390825225
+"('blood pressure', 'hemoglobin', 'temperature', 'testosterone', 'weight', 'RH', 'A', 'B', 'PHY', 'SML', 'SMD')",0.8805399690709376
+"('age', 'blood pressure', 'testosterone', 'weight', 'RH', 'A', 'B', 'PHY', 'SAR', 'SML', 'SMD')",0.8811181907213823
+"('age', 'hemoglobin', 'temperature', 'testosterone', 'RH', 'A', 'B', 'PHY', 'SAR', 'SML', 'SMD')",0.883006305213526
+"('age', 'blood pressure', 'cholesterol', 'hemoglobin', 'temperature', 'weight', 'A', 'B', 'SAR', 'SML', 'SMD')",0.8839693909252407
+"('age', 'blood pressure', 'cholesterol', 'temperature', 'testosterone', 'weight', 'RH', 'A', 'B', 'SAR', 'SML', 'SMD')",0.8844495561692972
+"('age', 'cholesterol', 'temperature', 'testosterone', 'weight', 'RH', 'A', 'B', 'SAR', 'SML', 'SMD')",0.8858484879442586
+"('blood pressure', 'cholesterol', 'hemoglobin', 'temperature', 'weight', 'RH', 'A', 'PHY', 'SAR', 'SML', 'SMD')",0.8863257109607292
+"('age', 'blood pressure', 'cholesterol', 'temperature', 'testosterone', 'weight', 'RH', 'A', 'SAR', 'SML', 'SMD')",0.8873983280557354
+"('age', 'blood pressure', 'cholesterol', 'hemoglobin', 'temperature', 'testosterone', 'RH', 'A', 'SAR', 'SML', 'SMD')",0.8888238867731157
+"('blood pressure', 'cholesterol', 'hemoglobin', 'testosterone', 'weight', 'RH', 'A', 'B', 'SAR', 'SML', 'SMD')",0.8890538202261166
+"('age', 'blood pressure', 'hemoglobin', 'temperature', 'testosterone', 'weight', 'RH', 'A', 'B', 'SAR', 'SML')",0.8916143589687129
+"('age', 'cholesterol', 'hemoglobin', 'testosterone', 'weight', 'A', 'B', 'PHY', 'SAR', 'SML', 'SMD')",0.8923331549175794
+"('age', 'blood pressure', 'cholesterol', 'hemoglobin', 'temperature', 'testosterone', 'weight', 'A', 'B', 'PHY', 'SML', 'SMD')",0.8942343981625491
+"('age', 'blood pressure', 'cholesterol', 'hemoglobin', 'temperature', 'testosterone', 'weight', 'RH', 'SAR', 'SML', 'SMD')",0.8946786091491516
+"('age', 'blood pressure', 'cholesterol', 'hemoglobin', 'temperature', 'weight', 'RH', 'A', 'B', 'SML', 'SMD')",0.8947202171552049
+"('age', 'blood pressure', 'cholesterol', 'hemoglobin', 'temperature', 'testosterone', 'RH', 'B', 'SAR', 'SML', 'SMD')",0.8963960935727082
+"('age', 'blood pressure', 'cholesterol', 'hemoglobin', 'temperature', 'weight', 'RH', 'B', 'SAR', 'SML', 'SMD')",0.8977008488377258
+"('age', 'cholesterol', 'hemoglobin', 'temperature', 'testosterone', 'weight', 'RH', 'A', 'B', 'SML', 'SMD')",0.898521438819888
+"('age', 'blood pressure', 'cholesterol', 'hemoglobin', 'temperature', 'testosterone', 'weight', 'RH', 'A', 'B', 'SML', 'SMD')",0.8996371578805594
+"('age', 'blood pressure', 'cholesterol', 'hemoglobin', 'temperature', 'testosterone', 'weight', 'RH', 'A', 'B', 'SMD')",0.8996486086715778
+"('age', 'blood pressure', 'cholesterol', 'hemoglobin', 'temperature', 'testosterone', 'RH', 'A', 'B', 'SML', 'SMD')",0.9021998631015102
+"('age', 'blood pressure', 'cholesterol', 'hemoglobin', 'temperature', 'testosterone', 'weight', 'RH', 'A', 'B', 'SAR')",0.9048088556270623
+"('age', 'blood pressure', 'hemoglobin', 'temperature', 'testosterone', 'RH', 'A', 'B', 'SAR', 'SML', 'SMD')",0.9066761726834887
+"('blood pressure', 'cholesterol', 'temperature', 'testosterone', 'weight', 'RH', 'A', 'B', 'SAR', 'SML', 'SMD')",0.907468416901377
+"('age', 'blood pressure', 'cholesterol', 'hemoglobin', 'temperature', 'testosterone', 'A', 'B', 'SAR', 'SML', 'SMD')",0.9080391961738137
+"('blood pressure', 'hemoglobin', 'temperature', 'testosterone', 'weight', 'RH', 'A', 'PHY', 'SAR', 'SML', 'SMD')",0.9109055700351879
+"('age', 'blood pressure', 'cholesterol', 'hemoglobin', 'testosterone', 'weight', 'RH', 'A', 'B', 'SAR', 'SML', 'SMD')",0.9134427646821764
+"('age', 'blood pressure', 'cholesterol', 'hemoglobin', 'temperature', 'testosterone', 'weight', 'A', 'B', 'SAR', 'SML', 'SMD')",0.9149505931202914
+"('age', 'blood pressure', 'cholesterol', 'hemoglobin', 'testosterone', 'RH', 'A', 'B', 'SAR', 'SML', 'SMD')",0.9156157876068268
+"('blood pressure', 'cholesterol', 'hemoglobin', 'temperature', 'testosterone', 'weight', 'RH', 'A', 'B', 'SAR', 'SMD')",0.9160081410769156
+"('age', 'blood pressure', 'cholesterol', 'hemoglobin', 'temperature', 'testosterone', 'weight', 'RH', 'A', 'SAR', 'SMD')",0.9173550926485942
+"('age', 'blood pressure', 'cholesterol', 'hemoglobin', 'temperature', 'testosterone', 'weight', 'RH', 'A', 'B', 'SAR', 'SML')",0.9184636983721692
+"('age', 'blood pressure', 'cholesterol', 'hemoglobin', 'testosterone', 'weight', 'RH', 'A', 'B', 'SML', 'SMD')",0.9204335348044758
+"('age', 'blood pressure', 'cholesterol', 'hemoglobin', 'temperature', 'testosterone', 'RH', 'A', 'B', 'SAR', 'SMD')",0.9215056733578526
+"('age', 'blood pressure', 'cholesterol', 'temperature', 'testosterone', 'weight', 'RH', 'A', 'B', 'SAR', 'SML')",0.9229291180536807
+"('age', 'cholesterol', 'hemoglobin', 'temperature', 'testosterone', 'RH', 'A', 'B', 'SAR', 'SML', 'SMD')",0.9230064238043733
+"('age', 'blood pressure', 'hemoglobin', 'temperature', 'testosterone', 'weight', 'RH', 'A', 'SAR', 'SML', 'SMD')",0.9264528139346931
+"('age', 'blood pressure', 'hemoglobin', 'temperature', 'testosterone', 'weight', 'RH', 'A', 'B', 'SML', 'SMD')",0.9320844939761888
+"('age', 'blood pressure', 'cholesterol', 'hemoglobin', 'temperature', 'testosterone', 'weight', 'A', 'B', 'SAR', 'SMD')",0.9408310794954045
+"('age', 'cholesterol', 'hemoglobin', 'temperature', 'testosterone', 'weight', 'A', 'B', 'SAR', 'SML', 'SMD')",0.9422623425104965
+"('age', 'blood pressure', 'cholesterol', 'hemoglobin', 'temperature', 'weight', 'RH', 'A', 'B', 'SAR', 'SML')",0.9913201435584226
